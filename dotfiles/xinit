@@ -1,0 +1,3 @@
+#!/bin/sh
+# feh --bg-fill ~/backgrounds/08119.png &
+exec bspwm
