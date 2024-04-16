@@ -1,3 +1,3 @@
 #!/bin/sh
-# feh --bg-fill ~/backgrounds/08119.png &
+xrdb ~/.Xresources &
 exec bspwm

@@ -16,20 +16,20 @@ shadow-radius = 0;
 
 # The left offset for shadows, in pixels. (defaults to -15)
 # shadow-offset-x = -15
-shadow-offset-x = 10;
+shadow-offset-x = 7;
 
 # The top offset for shadows, in pixels. (defaults to -15)
 # shadow-offset-y = -15
-shadow-offset-y = 10;
+shadow-offset-y = 7;
 
 # Red color value of shadow (0.0 - 1.0, defaults to 0).
-shadow-red = 1
+# shadow-red = 0
 
 # Green color value of shadow (0.0 - 1.0, defaults to 0).
 # shadow-green = 0
 
 # Blue color value of shadow (0.0 - 1.0, defaults to 0).
-shadow-blue = 1
+# shadow-blue = 0
 
 # Hex string color value of shadow (#000000 - #FFFFFF, defaults to #000000). This option will override options set shadow-(red/green/blue)
 # shadow-color = "#000000"
@@ -87,7 +87,7 @@ no-fading-openclose = true
 
 # Opacity of inactive windows. (0.1 - 1.0, defaults to 1.0)
 # inactive-opacity = 1
-inactive-opacity = 8.0;
+inactive-opacity = 1.0;
 
 # Opacity of window titlebars and borders. (0.1 - 1.0, disabled by default)
 # frame-opacity = 1.0

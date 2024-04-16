@@ -1,6 +1,5 @@
-URxvt*foreground:  #ffffff
-URxvt*background:  #000000
-URxvt*scrollBar:   false
-URxvt*geometry: 274x75+0+0
-URxvt*font:xft:HackNerdFontMono-Regular:pixelsize=10
-URxvt*boldfont:xft:HackNerdFontMono-Bold:pixelsize=10
+URxvt*foreground: #ffffff
+URxvt*background: #000000
+URxvt*scrollBar: false
+URxvt*font: xft:HackNerdFontMono-Regular:pixelsize=10
+URxvt*boldfont: xft:HackNerdFontMono-Bold:pixelsize=10
